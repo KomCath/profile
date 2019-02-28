@@ -1,0 +1,88 @@
+body {
+  background-color: #00A8B5;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-weight: lighter;
+  color: #955163;
+
+}
+
+h1 {
+  font-size: 37px;
+  color: #facf5a;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+p {
+  font-size: 20px;
+}
+
+a {
+  color: #955163;
+
+}
+a:hover {
+  color: #facf5a;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.card {
+  background: #eeeeee;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+
+ul {
+  list-style-type: none;
+}
+
+div {
+  text-align: center;
+}
+
+.footer {
+  color: #facf5a;
+}
+
+#img-profile {
+  width: 50%;
+  border: 3px solid #cccccc;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.list-inline {
+  padding-left: 0;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+#movies{
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+#movies img{
+  width: 132px;
+}
+#movies td{
+  padding: 10px;
+}
